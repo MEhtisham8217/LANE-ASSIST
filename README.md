@@ -1,4 +1,15 @@
 # LANE-ASSIST
+                                                      Lane Detection
+      ⇒ By camera
+      ⇒ Python/matlab
+      ⇒ Algorithms:
+        ⇒ CANNY
+        ⇒ Hough transformation
+      ⇒ Additionals:
+        ⇒ Warning generation
+        ⇒ Sound response if object is 0.4 km away from camera
+        ⇒ Auto Detect Parking ( P ) on lanes
+
 
 #Phase 1:	30 APRIL
 
