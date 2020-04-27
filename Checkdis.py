@@ -1,14 +1,15 @@
 import cv2
-import numpy as np
 
-capture = cv2. VideoCapture(0)
+cv2.namedWindow("preview")
+vc = cv2.videoCapture(0)
 
-while True:
-	ret, frame = capture.read()
-	cv2.imshow('frame', frame)
+if vc.isOpened():
+	rval, frame = vc.read()
+else
+	rval = False
 
-	if cv2.waitKey(1) & 0xFF == ord('q'):
-		break
+while rval:
+	cv2.imshow("preview", frame)
+	rval, frame = vc.read()
 
-capture.release()
 cv2.destroyAllWindows()
