@@ -11,15 +11,15 @@
         ⇒ Auto Detect Parking ( P ) on lanes
 
 
-#Phase 1:	30 APRIL
+#Phase 1:	30 APRIL vedio ko use karin ga end pa camera pa shift
 
-1.	By camera image capture ( idk how but have to do this part )
-2.	Algo coding CANNY and HOUGH
-3.	Combining both and generating the output
+//1.	By camera image capture
+//2.	Algo CANNY
+3.  Algo HOUGH
 
 #Phase 2:	5 MAY
 
-1.	Waring
+1.	Warning
 2.	Sound
 3. 	P detection yeh wo kar sakta jo algos lekhay ga
 
