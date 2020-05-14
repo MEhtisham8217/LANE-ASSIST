@@ -7,8 +7,8 @@
         ⇒ Hough transformation
       ⇒ Additionals:
         ⇒ Warning generation
-        ⇒ Sound response if object is 0.4 km away from camera
-        ⇒ Auto Detect Parking ( P ) on lanes
+        ⇒ Sound 
+      
 
 
 #Phase 1:	30 APRIL vedio ko use karin ga end pa camera pa shift
@@ -21,7 +21,6 @@
 
 1.	Warning
 2.	Sound
-3. 	P detection yeh wo kar sakta jo algos lekhay ga
 
 #Phase3:	7th MAY
 
